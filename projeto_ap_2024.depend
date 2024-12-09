@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1733329030 source:c:\users\rafsi\desktop\projeto_ap_2024\main.c
+	<stdio.h>
+
+1733327263 source:c:\users\rafsi\desktop\projeto_ap_2024\utils.c
+
+1733328287 source:c:\users\rafsi\desktop\projeto_ap_2024\file_utils.c
+	<stdio.h>
+	<stdlib.h>
+
+1733328310 source:c:\users\rafsi\desktop\projeto_ap_2024\search.c
+
+1733328330 source:c:\users\rafsi\desktop\projeto_ap_2024\statistics.c
+
+1733328336 source:c:\users\rafsi\desktop\projeto_ap_2024\student_management.c
+
+1733328269 c:\users\rafsi\desktop\projeto_ap_2024\file_utils.h
+
